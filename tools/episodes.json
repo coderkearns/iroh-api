@@ -1,0 +1,793 @@
+[
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "1",
+        "name": "The Boy in the Iceberg",
+        "versionString": "alta1.1"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "2",
+        "name": "The Avatar Returns",
+        "versionString": "alta1.2"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "3",
+        "name": "The Southern Air Temple",
+        "versionString": "alta1.3"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "4",
+        "name": "The Warriors of Kyoshi",
+        "versionString": "alta1.4"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "5",
+        "name": "The King of Omashu",
+        "versionString": "alta1.5"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "6",
+        "name": "Imprisoned",
+        "versionString": "alta1.6"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "7",
+        "name": "Winter Solstice, Part 1: The Spirit World",
+        "versionString": "alta1.7"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "8",
+        "name": "Winter Solstice, Part 2: Avatar Roku",
+        "versionString": "alta1.8"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "9",
+        "name": "The Waterbending Scroll",
+        "versionString": "alta1.9"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "10",
+        "name": "Jet",
+        "versionString": "alta1.10"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "11",
+        "name": "The Great Divide",
+        "versionString": "alta1.11"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "12",
+        "name": "The Storm",
+        "versionString": "alta1.12"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "13",
+        "name": "The Blue Spirit",
+        "versionString": "alta1.13"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "14",
+        "name": "The Fortuneteller",
+        "versionString": "alta1.14"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "15",
+        "name": "Bato of the Water Tribe",
+        "versionString": "alta1.15"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "16",
+        "name": "The Deserter",
+        "versionString": "alta1.16"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "17",
+        "name": "The Northern Air Temple",
+        "versionString": "alta1.17"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "18",
+        "name": "The Waterbending Master",
+        "versionString": "alta1.18"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "19",
+        "name": "The Siege of the North, Part 1",
+        "versionString": "alta1.19"
+    },
+    {
+        "show": "ALTA",
+        "book": "1",
+        "episode": "20",
+        "name": "The Siege of the North, Part 2",
+        "versionString": "alta1.20"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "1",
+        "name": "The Avatar State",
+        "versionString": "alta2.1"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "2",
+        "name": "The Cave of Two Lovers",
+        "versionString": "alta2.2"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "3",
+        "name": "Return to Omashu",
+        "versionString": "alta2.3"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "4",
+        "name": "The Swamp",
+        "versionString": "alta2.4"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "5",
+        "name": "Avatar Day",
+        "versionString": "alta2.5"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "6",
+        "name": "The Blind Bandit",
+        "versionString": "alta2.6"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "7",
+        "name": "Zuko Alone",
+        "versionString": "alta2.7"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "8",
+        "name": "The Chase",
+        "versionString": "alta2.8"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "9",
+        "name": "Bitter Work",
+        "versionString": "alta2.9"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "10",
+        "name": "The Library",
+        "versionString": "alta2.10"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "11",
+        "name": "The Desert",
+        "versionString": "alta2.11"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "12",
+        "name": "The Serpent's Pass",
+        "versionString": "alta2.12"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "13",
+        "name": "The Drill",
+        "versionString": "alta2.13"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "14",
+        "name": "City of Walls and Secrets",
+        "versionString": "alta2.14"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "15",
+        "name": "The Tales of Ba Sing Se",
+        "versionString": "alta2.15"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "16",
+        "name": "Appa's Lost Days",
+        "versionString": "alta2.16"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "17",
+        "name": "Lake Laogai",
+        "versionString": "alta2.17"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "18",
+        "name": "The Earth King",
+        "versionString": "alta2.18"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "19",
+        "name": "The Guru",
+        "versionString": "alta2.19"
+    },
+    {
+        "show": "ALTA",
+        "book": "2",
+        "episode": "20",
+        "name": "The Crossroads of Destiny",
+        "versionString": "alta2.20"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "1",
+        "name": "The Awakening",
+        "versionString": "alta3.1"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "2",
+        "name": "The Headband",
+        "versionString": "alta3.2"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "3",
+        "name": "The Painted Lady",
+        "versionString": "alta3.3"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "4",
+        "name": "Sokka's Master",
+        "versionString": "alta3.4"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "5",
+        "name": "The Beach",
+        "versionString": "alta3.5"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "6",
+        "name": "The Avatar and the Fire Lord",
+        "versionString": "alta3.6"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "7",
+        "name": "The Runaway",
+        "versionString": "alta3.7"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "8",
+        "name": "The Puppetmaster",
+        "versionString": "alta3.8"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "9",
+        "name": "Nightmares and Daydreams",
+        "versionString": "alta3.9"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "10",
+        "name": "The Day of Black Sun, Part 1: The Invasion",
+        "versionString": "alta3.10"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "11",
+        "name": "The Day of Black Sun, Part 2: The Eclipse",
+        "versionString": "alta3.11"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "12",
+        "name": "The Western Air Temple",
+        "versionString": "alta3.12"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "13",
+        "name": "The Firebending Masters",
+        "versionString": "alta3.13"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "14",
+        "name": "The Boiling Rock, Part 1",
+        "versionString": "alta3.14"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "15",
+        "name": "The Boiling Rock, Part 2",
+        "versionString": "alta3.15"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "16",
+        "name": "The Southern Raiders",
+        "versionString": "alta3.16"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "17",
+        "name": "The Ember Island Players",
+        "versionString": "alta3.17"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "18",
+        "name": "Sozin's Comet, Part 1: The Phoenix King",
+        "versionString": "alta3.18"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "19",
+        "name": "Sozin's Comet, Part 2: The Old Masters",
+        "versionString": "alta3.19"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "20",
+        "name": "Sozin's Comet, Part 3: Avatar Aang",
+        "versionString": "alta3.20"
+    },
+    {
+        "show": "ALTA",
+        "book": "3",
+        "episode": "21",
+        "name": "Sozin's Comet",
+        "versionString": "alta3.21"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "1",
+        "name": "Welcome to Republic City",
+        "versionString": "tlok1.1"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "2",
+        "name": "A Leaf in the Wind",
+        "versionString": "tlok1.2"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "3",
+        "name": "The Revelation",
+        "versionString": "tlok1.3"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "4",
+        "name": "The Voice in the Night",
+        "versionString": "tlok1.4"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "5",
+        "name": "The Spirit of Competition",
+        "versionString": "tlok1.5"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "6",
+        "name": "And the Winner Is...",
+        "versionString": "tlok1.6"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "7",
+        "name": "The Aftermath",
+        "versionString": "tlok1.7"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "8",
+        "name": "When Extremes Meet",
+        "versionString": "tlok1.8"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "9",
+        "name": "Out of the Past",
+        "versionString": "tlok1.9"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "10",
+        "name": "Turning the Tides",
+        "versionString": "tlok1.10"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "11",
+        "name": "Skeletons in the Closet",
+        "versionString": "tlok1.11"
+    },
+    {
+        "show": "TLOK",
+        "book": "1",
+        "episode": "12",
+        "name": "Endgame",
+        "versionString": "tlok1.12"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "1",
+        "name": "Rebel Spirit",
+        "versionString": "tlok2.1"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "2",
+        "name": "The Southern Lights",
+        "versionString": "tlok2.2"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "3",
+        "name": "Civil Wars, Part 1",
+        "versionString": "tlok2.3"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "4",
+        "name": "Civil Wars, Part 2",
+        "versionString": "tlok2.4"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "5",
+        "name": "Peacekeepers",
+        "versionString": "tlok2.5"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "6",
+        "name": "The Sting",
+        "versionString": "tlok2.6"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "7",
+        "name": "Beginnings, Part 1",
+        "versionString": "tlok2.7"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "8",
+        "name": "Beginnings, Part 2",
+        "versionString": "tlok2.8"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "9",
+        "name": "The Guide",
+        "versionString": "tlok2.9"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "10",
+        "name": "A New Spiritual Age",
+        "versionString": "tlok2.10"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "11",
+        "name": "Night of a Thousand Stars",
+        "versionString": "tlok2.11"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "12",
+        "name": "Harmonic Convergence",
+        "versionString": "tlok2.12"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "13",
+        "name": "Darkness Falls",
+        "versionString": "tlok2.13"
+    },
+    {
+        "show": "TLOK",
+        "book": "2",
+        "episode": "14",
+        "name": "Light in the Dark",
+        "versionString": "tlok2.14"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "1",
+        "name": "A Breath of Fresh Air",
+        "versionString": "tlok3.1"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "2",
+        "name": "Rebirth",
+        "versionString": "tlok3.2"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "3",
+        "name": "The Earth Queen",
+        "versionString": "tlok3.3"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "4",
+        "name": "In Harm's Way",
+        "versionString": "tlok3.4"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "5",
+        "name": "The Metal Clan",
+        "versionString": "tlok3.5"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "6",
+        "name": "Old Wounds",
+        "versionString": "tlok3.6"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "7",
+        "name": "Original Airbenders",
+        "versionString": "tlok3.7"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "8",
+        "name": "The Terror Within",
+        "versionString": "tlok3.8"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "9",
+        "name": "The Stakeout",
+        "versionString": "tlok3.9"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "10",
+        "name": "Long Live the Queen",
+        "versionString": "tlok3.10"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "11",
+        "name": "The Ultimatum",
+        "versionString": "tlok3.11"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "12",
+        "name": "Enter the Void",
+        "versionString": "tlok3.12"
+    },
+    {
+        "show": "TLOK",
+        "book": "3",
+        "episode": "13",
+        "name": "Venom of the Red Lotus",
+        "versionString": "tlok3.13"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "1",
+        "name": "After All These Years",
+        "versionString": "tlok4.1"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "2",
+        "name": "Korra Alone",
+        "versionString": "tlok4.2"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "3",
+        "name": "The Coronation",
+        "versionString": "tlok4.3"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "4",
+        "name": "The Calling",
+        "versionString": "tlok4.4"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "5",
+        "name": "Enemy at the Gates",
+        "versionString": "tlok4.5"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "6",
+        "name": "The Battle of Zaofu",
+        "versionString": "tlok4.6"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "7",
+        "name": "Reunion",
+        "versionString": "tlok4.7"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "8",
+        "name": "Remembrances",
+        "versionString": "tlok4.8"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "9",
+        "name": "Beyond the Wilds",
+        "versionString": "tlok4.9"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "10",
+        "name": "Operation Beifong",
+        "versionString": "tlok4.10"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "11",
+        "name": "Kuvira's Gambit",
+        "versionString": "tlok4.11"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "12",
+        "name": "Day of the Colossus",
+        "versionString": "tlok4.12"
+    },
+    {
+        "show": "TLOK",
+        "book": "4",
+        "episode": "13",
+        "name": "The Last Stand",
+        "versionString": "tlok4.13"
+    }
+]
