@@ -21,21 +21,23 @@ async function run() {
     let data = {}
     data.episodes = episodes
     data.count = 0
-    data.quotes = {}
+    data.quotes = []
     transcripts.forEach(transcript => {
         if (!newEpisodes[transcript[0]]) {
             throw new Error(`Episode ${transcript[0]} not found`)
         }
         let e = newEpisodes[transcript[0]]
         let id = len(data.quotes)
-        data.quotes[id] = {
+        data.quotes.push({
             id,
             show: e.show,
             episode: `${e.book}.${e.episode}`,
             quote: strip(transcript[1]),
-        }
+            tags: []
+        })
     })
     data.count = len(data.quotes)
+    data.tags = require("./tags.json")
 
     console.log(`Writing...`)
     await fs.writeFile('./data.json', JSON.stringify(data, null, 2))
