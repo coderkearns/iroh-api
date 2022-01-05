@@ -3,10 +3,11 @@ const api = express.Router();
 
 const data = require('./data.json');
 /* /////// ROUTES /////// */
-// GET /api/ - return endpoints as { episodes: <episodes.count>, quotes: <quotes.count> }
-// GET /api/count/ - return total number of quotes and episodes, same as /api/
+// GET /api/ - return endpoints as { episodes: <episodes.count>, quotes: <quotes.count>, tags: <tags.count> }
+// GET /api/count/ - return total number of quotes, episodes, and tags. Same as /api/
 // GET /api/count/episodes - return total number of episodes
 // GET /api/count/quotes - return total number of quotes
+// GET /api/count/tags - return total number of tags
 // GET /api/tags/ - return all tags as an array
 // GET /api/episodes/ - return all episodes as array of simplified objects { id: <id>, name: <name> }
 // GET /api/episodes/:id - return episode specified id or error if not found
@@ -18,7 +19,8 @@ const data = require('./data.json');
 api.get("/", (req, res) => {
     res.json({
         episodes: data.episodes.length,
-        quotes: data.quotes.length
+        quotes: data.quotes.length,
+        tags: data.tags.length
     });
 });
 
@@ -26,7 +28,8 @@ api.get("/", (req, res) => {
 api.get("/count/", (req, res) => {
     res.json({
         episodes: data.episodes.length,
-        quotes: data.quotes.length
+        quotes: data.quotes.length,
+        tags: data.tags.length
     });
 });
 
