@@ -2,918 +2,877 @@
   "episodes": [
     {
       "id": 0,
+      "name": "The Boy in the Iceberg",
       "show": "ALTA",
       "book": "1",
-      "episode": "1",
-      "name": "The Boy in the Iceberg",
-      "versionString": "alta1.1"
+      "episode": "1"
     },
     {
       "id": 1,
+      "name": "The Avatar Returns",
       "show": "ALTA",
       "book": "1",
-      "episode": "2",
-      "name": "The Avatar Returns",
-      "versionString": "alta1.2"
+      "episode": "2"
     },
     {
       "id": 2,
+      "name": "The Southern Air Temple",
       "show": "ALTA",
       "book": "1",
-      "episode": "3",
-      "name": "The Southern Air Temple",
-      "versionString": "alta1.3"
+      "episode": "3"
     },
     {
       "id": 3,
+      "name": "The Warriors of Kyoshi",
       "show": "ALTA",
       "book": "1",
-      "episode": "4",
-      "name": "The Warriors of Kyoshi",
-      "versionString": "alta1.4"
+      "episode": "4"
     },
     {
       "id": 4,
+      "name": "The King of Omashu",
       "show": "ALTA",
       "book": "1",
-      "episode": "5",
-      "name": "The King of Omashu",
-      "versionString": "alta1.5"
+      "episode": "5"
     },
     {
       "id": 5,
+      "name": "Imprisoned",
       "show": "ALTA",
       "book": "1",
-      "episode": "6",
-      "name": "Imprisoned",
-      "versionString": "alta1.6"
+      "episode": "6"
     },
     {
       "id": 6,
+      "name": "Winter Solstice, Part 1: The Spirit World",
       "show": "ALTA",
       "book": "1",
-      "episode": "7",
-      "name": "Winter Solstice, Part 1: The Spirit World",
-      "versionString": "alta1.7"
+      "episode": "7"
     },
     {
       "id": 7,
+      "name": "Winter Solstice, Part 2: Avatar Roku",
       "show": "ALTA",
       "book": "1",
-      "episode": "8",
-      "name": "Winter Solstice, Part 2: Avatar Roku",
-      "versionString": "alta1.8"
+      "episode": "8"
     },
     {
       "id": 8,
+      "name": "The Waterbending Scroll",
       "show": "ALTA",
       "book": "1",
-      "episode": "9",
-      "name": "The Waterbending Scroll",
-      "versionString": "alta1.9"
+      "episode": "9"
     },
     {
       "id": 9,
+      "name": "Jet",
       "show": "ALTA",
       "book": "1",
-      "episode": "10",
-      "name": "Jet",
-      "versionString": "alta1.10"
+      "episode": "10"
     },
     {
       "id": 10,
+      "name": "The Great Divide",
       "show": "ALTA",
       "book": "1",
-      "episode": "11",
-      "name": "The Great Divide",
-      "versionString": "alta1.11"
+      "episode": "11"
     },
     {
       "id": 11,
+      "name": "The Storm",
       "show": "ALTA",
       "book": "1",
-      "episode": "12",
-      "name": "The Storm",
-      "versionString": "alta1.12"
+      "episode": "12"
     },
     {
       "id": 12,
+      "name": "The Blue Spirit",
       "show": "ALTA",
       "book": "1",
-      "episode": "13",
-      "name": "The Blue Spirit",
-      "versionString": "alta1.13"
+      "episode": "13"
     },
     {
       "id": 13,
+      "name": "The Fortuneteller",
       "show": "ALTA",
       "book": "1",
-      "episode": "14",
-      "name": "The Fortuneteller",
-      "versionString": "alta1.14"
+      "episode": "14"
     },
     {
       "id": 14,
+      "name": "Bato of the Water Tribe",
       "show": "ALTA",
       "book": "1",
-      "episode": "15",
-      "name": "Bato of the Water Tribe",
-      "versionString": "alta1.15"
+      "episode": "15"
     },
     {
       "id": 15,
+      "name": "The Deserter",
       "show": "ALTA",
       "book": "1",
-      "episode": "16",
-      "name": "The Deserter",
-      "versionString": "alta1.16"
+      "episode": "16"
     },
     {
       "id": 16,
+      "name": "The Northern Air Temple",
       "show": "ALTA",
       "book": "1",
-      "episode": "17",
-      "name": "The Northern Air Temple",
-      "versionString": "alta1.17"
+      "episode": "17"
     },
     {
       "id": 17,
+      "name": "The Waterbending Master",
       "show": "ALTA",
       "book": "1",
-      "episode": "18",
-      "name": "The Waterbending Master",
-      "versionString": "alta1.18"
+      "episode": "18"
     },
     {
       "id": 18,
+      "name": "The Siege of the North, Part 1",
       "show": "ALTA",
       "book": "1",
-      "episode": "19",
-      "name": "The Siege of the North, Part 1",
-      "versionString": "alta1.19"
+      "episode": "19"
     },
     {
       "id": 19,
+      "name": "The Siege of the North, Part 2",
       "show": "ALTA",
       "book": "1",
-      "episode": "20",
-      "name": "The Siege of the North, Part 2",
-      "versionString": "alta1.20"
+      "episode": "20"
     },
     {
       "id": 20,
+      "name": "The Avatar State",
       "show": "ALTA",
       "book": "2",
-      "episode": "1",
-      "name": "The Avatar State",
-      "versionString": "alta2.1"
+      "episode": "1"
     },
     {
       "id": 21,
+      "name": "The Cave of Two Lovers",
       "show": "ALTA",
       "book": "2",
-      "episode": "2",
-      "name": "The Cave of Two Lovers",
-      "versionString": "alta2.2"
+      "episode": "2"
     },
     {
       "id": 22,
+      "name": "Return to Omashu",
       "show": "ALTA",
       "book": "2",
-      "episode": "3",
-      "name": "Return to Omashu",
-      "versionString": "alta2.3"
+      "episode": "3"
     },
     {
       "id": 23,
+      "name": "The Swamp",
       "show": "ALTA",
       "book": "2",
-      "episode": "4",
-      "name": "The Swamp",
-      "versionString": "alta2.4"
+      "episode": "4"
     },
     {
       "id": 24,
+      "name": "Avatar Day",
       "show": "ALTA",
       "book": "2",
-      "episode": "5",
-      "name": "Avatar Day",
-      "versionString": "alta2.5"
+      "episode": "5"
     },
     {
       "id": 25,
+      "name": "The Blind Bandit",
       "show": "ALTA",
       "book": "2",
-      "episode": "6",
-      "name": "The Blind Bandit",
-      "versionString": "alta2.6"
+      "episode": "6"
     },
     {
       "id": 26,
+      "name": "Zuko Alone",
       "show": "ALTA",
       "book": "2",
-      "episode": "7",
-      "name": "Zuko Alone",
-      "versionString": "alta2.7"
+      "episode": "7"
     },
     {
       "id": 27,
+      "name": "The Chase",
       "show": "ALTA",
       "book": "2",
-      "episode": "8",
-      "name": "The Chase",
-      "versionString": "alta2.8"
+      "episode": "8"
     },
     {
       "id": 28,
+      "name": "Bitter Work",
       "show": "ALTA",
       "book": "2",
-      "episode": "9",
-      "name": "Bitter Work",
-      "versionString": "alta2.9"
+      "episode": "9"
     },
     {
       "id": 29,
+      "name": "The Library",
       "show": "ALTA",
       "book": "2",
-      "episode": "10",
-      "name": "The Library",
-      "versionString": "alta2.10"
+      "episode": "10"
     },
     {
       "id": 30,
+      "name": "The Desert",
       "show": "ALTA",
       "book": "2",
-      "episode": "11",
-      "name": "The Desert",
-      "versionString": "alta2.11"
+      "episode": "11"
     },
     {
       "id": 31,
+      "name": "The Serpent's Pass",
       "show": "ALTA",
       "book": "2",
-      "episode": "12",
-      "name": "The Serpent's Pass",
-      "versionString": "alta2.12"
+      "episode": "12"
     },
     {
       "id": 32,
+      "name": "The Drill",
       "show": "ALTA",
       "book": "2",
-      "episode": "13",
-      "name": "The Drill",
-      "versionString": "alta2.13"
+      "episode": "13"
     },
     {
       "id": 33,
+      "name": "City of Walls and Secrets",
       "show": "ALTA",
       "book": "2",
-      "episode": "14",
-      "name": "City of Walls and Secrets",
-      "versionString": "alta2.14"
+      "episode": "14"
     },
     {
       "id": 34,
+      "name": "The Tales of Ba Sing Se",
       "show": "ALTA",
       "book": "2",
-      "episode": "15",
-      "name": "The Tales of Ba Sing Se",
-      "versionString": "alta2.15"
+      "episode": "15"
     },
     {
       "id": 35,
+      "name": "Appa's Lost Days",
       "show": "ALTA",
       "book": "2",
-      "episode": "16",
-      "name": "Appa's Lost Days",
-      "versionString": "alta2.16"
+      "episode": "16"
     },
     {
       "id": 36,
+      "name": "Lake Laogai",
       "show": "ALTA",
       "book": "2",
-      "episode": "17",
-      "name": "Lake Laogai",
-      "versionString": "alta2.17"
+      "episode": "17"
     },
     {
       "id": 37,
+      "name": "The Earth King",
       "show": "ALTA",
       "book": "2",
-      "episode": "18",
-      "name": "The Earth King",
-      "versionString": "alta2.18"
+      "episode": "18"
     },
     {
       "id": 38,
+      "name": "The Guru",
       "show": "ALTA",
       "book": "2",
-      "episode": "19",
-      "name": "The Guru",
-      "versionString": "alta2.19"
+      "episode": "19"
     },
     {
       "id": 39,
+      "name": "The Crossroads of Destiny",
       "show": "ALTA",
       "book": "2",
-      "episode": "20",
-      "name": "The Crossroads of Destiny",
-      "versionString": "alta2.20"
+      "episode": "20"
     },
     {
       "id": 40,
+      "name": "The Awakening",
       "show": "ALTA",
       "book": "3",
-      "episode": "1",
-      "name": "The Awakening",
-      "versionString": "alta3.1"
+      "episode": "1"
     },
     {
       "id": 41,
+      "name": "The Headband",
       "show": "ALTA",
       "book": "3",
-      "episode": "2",
-      "name": "The Headband",
-      "versionString": "alta3.2"
+      "episode": "2"
     },
     {
       "id": 42,
+      "name": "The Painted Lady",
       "show": "ALTA",
       "book": "3",
-      "episode": "3",
-      "name": "The Painted Lady",
-      "versionString": "alta3.3"
+      "episode": "3"
     },
     {
       "id": 43,
+      "name": "Sokka's Master",
       "show": "ALTA",
       "book": "3",
-      "episode": "4",
-      "name": "Sokka's Master",
-      "versionString": "alta3.4"
+      "episode": "4"
     },
     {
       "id": 44,
+      "name": "The Beach",
       "show": "ALTA",
       "book": "3",
-      "episode": "5",
-      "name": "The Beach",
-      "versionString": "alta3.5"
+      "episode": "5"
     },
     {
       "id": 45,
+      "name": "The Avatar and the Fire Lord",
       "show": "ALTA",
       "book": "3",
-      "episode": "6",
-      "name": "The Avatar and the Fire Lord",
-      "versionString": "alta3.6"
+      "episode": "6"
     },
     {
       "id": 46,
+      "name": "The Runaway",
       "show": "ALTA",
       "book": "3",
-      "episode": "7",
-      "name": "The Runaway",
-      "versionString": "alta3.7"
+      "episode": "7"
     },
     {
       "id": 47,
+      "name": "The Puppetmaster",
       "show": "ALTA",
       "book": "3",
-      "episode": "8",
-      "name": "The Puppetmaster",
-      "versionString": "alta3.8"
+      "episode": "8"
     },
     {
       "id": 48,
+      "name": "Nightmares and Daydreams",
       "show": "ALTA",
       "book": "3",
-      "episode": "9",
-      "name": "Nightmares and Daydreams",
-      "versionString": "alta3.9"
+      "episode": "9"
     },
     {
       "id": 49,
+      "name": "The Day of Black Sun, Part 1: The Invasion",
       "show": "ALTA",
       "book": "3",
-      "episode": "10",
-      "name": "The Day of Black Sun, Part 1: The Invasion",
-      "versionString": "alta3.10"
+      "episode": "10"
     },
     {
       "id": 50,
+      "name": "The Day of Black Sun, Part 2: The Eclipse",
       "show": "ALTA",
       "book": "3",
-      "episode": "11",
-      "name": "The Day of Black Sun, Part 2: The Eclipse",
-      "versionString": "alta3.11"
+      "episode": "11"
     },
     {
       "id": 51,
+      "name": "The Western Air Temple",
       "show": "ALTA",
       "book": "3",
-      "episode": "12",
-      "name": "The Western Air Temple",
-      "versionString": "alta3.12"
+      "episode": "12"
     },
     {
       "id": 52,
+      "name": "The Firebending Masters",
       "show": "ALTA",
       "book": "3",
-      "episode": "13",
-      "name": "The Firebending Masters",
-      "versionString": "alta3.13"
+      "episode": "13"
     },
     {
       "id": 53,
+      "name": "The Boiling Rock, Part 1",
       "show": "ALTA",
       "book": "3",
-      "episode": "14",
-      "name": "The Boiling Rock, Part 1",
-      "versionString": "alta3.14"
+      "episode": "14"
     },
     {
       "id": 54,
+      "name": "The Boiling Rock, Part 2",
       "show": "ALTA",
       "book": "3",
-      "episode": "15",
-      "name": "The Boiling Rock, Part 2",
-      "versionString": "alta3.15"
+      "episode": "15"
     },
     {
       "id": 55,
+      "name": "The Southern Raiders",
       "show": "ALTA",
       "book": "3",
-      "episode": "16",
-      "name": "The Southern Raiders",
-      "versionString": "alta3.16"
+      "episode": "16"
     },
     {
       "id": 56,
+      "name": "The Ember Island Players",
       "show": "ALTA",
       "book": "3",
-      "episode": "17",
-      "name": "The Ember Island Players",
-      "versionString": "alta3.17"
+      "episode": "17"
     },
     {
       "id": 57,
+      "name": "Sozin's Comet, Part 1: The Phoenix King",
       "show": "ALTA",
       "book": "3",
-      "episode": "18",
-      "name": "Sozin's Comet, Part 1: The Phoenix King",
-      "versionString": "alta3.18"
+      "episode": "18"
     },
     {
       "id": 58,
+      "name": "Sozin's Comet, Part 2: The Old Masters",
       "show": "ALTA",
       "book": "3",
-      "episode": "19",
-      "name": "Sozin's Comet, Part 2: The Old Masters",
-      "versionString": "alta3.19"
+      "episode": "19"
     },
     {
       "id": 59,
+      "name": "Sozin's Comet, Part 3: Avatar Aang",
       "show": "ALTA",
       "book": "3",
-      "episode": "20",
-      "name": "Sozin's Comet, Part 3: Avatar Aang",
-      "versionString": "alta3.20"
+      "episode": "20"
     },
     {
       "id": 60,
+      "name": "Sozin's Comet",
       "show": "ALTA",
       "book": "3",
-      "episode": "21",
-      "name": "Sozin's Comet",
-      "versionString": "alta3.21"
+      "episode": "21"
     },
     {
       "id": 61,
+      "name": "Welcome to Republic City",
       "show": "TLOK",
       "book": "1",
-      "episode": "1",
-      "name": "Welcome to Republic City",
-      "versionString": "tlok1.1"
+      "episode": "1"
     },
     {
       "id": 62,
+      "name": "A Leaf in the Wind",
       "show": "TLOK",
       "book": "1",
-      "episode": "2",
-      "name": "A Leaf in the Wind",
-      "versionString": "tlok1.2"
+      "episode": "2"
     },
     {
       "id": 63,
+      "name": "The Revelation",
       "show": "TLOK",
       "book": "1",
-      "episode": "3",
-      "name": "The Revelation",
-      "versionString": "tlok1.3"
+      "episode": "3"
     },
     {
       "id": 64,
+      "name": "The Voice in the Night",
       "show": "TLOK",
       "book": "1",
-      "episode": "4",
-      "name": "The Voice in the Night",
-      "versionString": "tlok1.4"
+      "episode": "4"
     },
     {
       "id": 65,
+      "name": "The Spirit of Competition",
       "show": "TLOK",
       "book": "1",
-      "episode": "5",
-      "name": "The Spirit of Competition",
-      "versionString": "tlok1.5"
+      "episode": "5"
     },
     {
       "id": 66,
+      "name": "And the Winner Is...",
       "show": "TLOK",
       "book": "1",
-      "episode": "6",
-      "name": "And the Winner Is...",
-      "versionString": "tlok1.6"
+      "episode": "6"
     },
     {
       "id": 67,
+      "name": "The Aftermath",
       "show": "TLOK",
       "book": "1",
-      "episode": "7",
-      "name": "The Aftermath",
-      "versionString": "tlok1.7"
+      "episode": "7"
     },
     {
       "id": 68,
+      "name": "When Extremes Meet",
       "show": "TLOK",
       "book": "1",
-      "episode": "8",
-      "name": "When Extremes Meet",
-      "versionString": "tlok1.8"
+      "episode": "8"
     },
     {
       "id": 69,
+      "name": "Out of the Past",
       "show": "TLOK",
       "book": "1",
-      "episode": "9",
-      "name": "Out of the Past",
-      "versionString": "tlok1.9"
+      "episode": "9"
     },
     {
       "id": 70,
+      "name": "Turning the Tides",
       "show": "TLOK",
       "book": "1",
-      "episode": "10",
-      "name": "Turning the Tides",
-      "versionString": "tlok1.10"
+      "episode": "10"
     },
     {
       "id": 71,
+      "name": "Skeletons in the Closet",
       "show": "TLOK",
       "book": "1",
-      "episode": "11",
-      "name": "Skeletons in the Closet",
-      "versionString": "tlok1.11"
+      "episode": "11"
     },
     {
       "id": 72,
+      "name": "Endgame",
       "show": "TLOK",
       "book": "1",
-      "episode": "12",
-      "name": "Endgame",
-      "versionString": "tlok1.12"
+      "episode": "12"
     },
     {
       "id": 73,
+      "name": "Rebel Spirit",
       "show": "TLOK",
       "book": "2",
-      "episode": "1",
-      "name": "Rebel Spirit",
-      "versionString": "tlok2.1"
+      "episode": "1"
     },
     {
       "id": 74,
+      "name": "The Southern Lights",
       "show": "TLOK",
       "book": "2",
-      "episode": "2",
-      "name": "The Southern Lights",
-      "versionString": "tlok2.2"
+      "episode": "2"
     },
     {
       "id": 75,
+      "name": "Civil Wars, Part 1",
       "show": "TLOK",
       "book": "2",
-      "episode": "3",
-      "name": "Civil Wars, Part 1",
-      "versionString": "tlok2.3"
+      "episode": "3"
     },
     {
       "id": 76,
+      "name": "Civil Wars, Part 2",
       "show": "TLOK",
       "book": "2",
-      "episode": "4",
-      "name": "Civil Wars, Part 2",
-      "versionString": "tlok2.4"
+      "episode": "4"
     },
     {
       "id": 77,
+      "name": "Peacekeepers",
       "show": "TLOK",
       "book": "2",
-      "episode": "5",
-      "name": "Peacekeepers",
-      "versionString": "tlok2.5"
+      "episode": "5"
     },
     {
       "id": 78,
+      "name": "The Sting",
       "show": "TLOK",
       "book": "2",
-      "episode": "6",
-      "name": "The Sting",
-      "versionString": "tlok2.6"
+      "episode": "6"
     },
     {
       "id": 79,
+      "name": "Beginnings, Part 1",
       "show": "TLOK",
       "book": "2",
-      "episode": "7",
-      "name": "Beginnings, Part 1",
-      "versionString": "tlok2.7"
+      "episode": "7"
     },
     {
       "id": 80,
+      "name": "Beginnings, Part 2",
       "show": "TLOK",
       "book": "2",
-      "episode": "8",
-      "name": "Beginnings, Part 2",
-      "versionString": "tlok2.8"
+      "episode": "8"
     },
     {
       "id": 81,
+      "name": "The Guide",
       "show": "TLOK",
       "book": "2",
-      "episode": "9",
-      "name": "The Guide",
-      "versionString": "tlok2.9"
+      "episode": "9"
     },
     {
       "id": 82,
+      "name": "A New Spiritual Age",
       "show": "TLOK",
       "book": "2",
-      "episode": "10",
-      "name": "A New Spiritual Age",
-      "versionString": "tlok2.10"
+      "episode": "10"
     },
     {
       "id": 83,
+      "name": "Night of a Thousand Stars",
       "show": "TLOK",
       "book": "2",
-      "episode": "11",
-      "name": "Night of a Thousand Stars",
-      "versionString": "tlok2.11"
+      "episode": "11"
     },
     {
       "id": 84,
+      "name": "Harmonic Convergence",
       "show": "TLOK",
       "book": "2",
-      "episode": "12",
-      "name": "Harmonic Convergence",
-      "versionString": "tlok2.12"
+      "episode": "12"
     },
     {
       "id": 85,
+      "name": "Darkness Falls",
       "show": "TLOK",
       "book": "2",
-      "episode": "13",
-      "name": "Darkness Falls",
-      "versionString": "tlok2.13"
+      "episode": "13"
     },
     {
       "id": 86,
+      "name": "Light in the Dark",
       "show": "TLOK",
       "book": "2",
-      "episode": "14",
-      "name": "Light in the Dark",
-      "versionString": "tlok2.14"
+      "episode": "14"
     },
     {
       "id": 87,
+      "name": "A Breath of Fresh Air",
       "show": "TLOK",
       "book": "3",
-      "episode": "1",
-      "name": "A Breath of Fresh Air",
-      "versionString": "tlok3.1"
+      "episode": "1"
     },
     {
       "id": 88,
+      "name": "Rebirth",
       "show": "TLOK",
       "book": "3",
-      "episode": "2",
-      "name": "Rebirth",
-      "versionString": "tlok3.2"
+      "episode": "2"
     },
     {
       "id": 89,
+      "name": "The Earth Queen",
       "show": "TLOK",
       "book": "3",
-      "episode": "3",
-      "name": "The Earth Queen",
-      "versionString": "tlok3.3"
+      "episode": "3"
     },
     {
       "id": 90,
+      "name": "In Harm's Way",
       "show": "TLOK",
       "book": "3",
-      "episode": "4",
-      "name": "In Harm's Way",
-      "versionString": "tlok3.4"
+      "episode": "4"
     },
     {
       "id": 91,
+      "name": "The Metal Clan",
       "show": "TLOK",
       "book": "3",
-      "episode": "5",
-      "name": "The Metal Clan",
-      "versionString": "tlok3.5"
+      "episode": "5"
     },
     {
       "id": 92,
+      "name": "Old Wounds",
       "show": "TLOK",
       "book": "3",
-      "episode": "6",
-      "name": "Old Wounds",
-      "versionString": "tlok3.6"
+      "episode": "6"
     },
     {
       "id": 93,
+      "name": "Original Airbenders",
       "show": "TLOK",
       "book": "3",
-      "episode": "7",
-      "name": "Original Airbenders",
-      "versionString": "tlok3.7"
+      "episode": "7"
     },
     {
       "id": 94,
+      "name": "The Terror Within",
       "show": "TLOK",
       "book": "3",
-      "episode": "8",
-      "name": "The Terror Within",
-      "versionString": "tlok3.8"
+      "episode": "8"
     },
     {
       "id": 95,
+      "name": "The Stakeout",
       "show": "TLOK",
       "book": "3",
-      "episode": "9",
-      "name": "The Stakeout",
-      "versionString": "tlok3.9"
+      "episode": "9"
     },
     {
       "id": 96,
+      "name": "Long Live the Queen",
       "show": "TLOK",
       "book": "3",
-      "episode": "10",
-      "name": "Long Live the Queen",
-      "versionString": "tlok3.10"
+      "episode": "10"
     },
     {
       "id": 97,
+      "name": "The Ultimatum",
       "show": "TLOK",
       "book": "3",
-      "episode": "11",
-      "name": "The Ultimatum",
-      "versionString": "tlok3.11"
+      "episode": "11"
     },
     {
       "id": 98,
+      "name": "Enter the Void",
       "show": "TLOK",
       "book": "3",
-      "episode": "12",
-      "name": "Enter the Void",
-      "versionString": "tlok3.12"
+      "episode": "12"
     },
     {
       "id": 99,
+      "name": "Venom of the Red Lotus",
       "show": "TLOK",
       "book": "3",
-      "episode": "13",
-      "name": "Venom of the Red Lotus",
-      "versionString": "tlok3.13"
+      "episode": "13"
     },
     {
       "id": 100,
+      "name": "After All These Years",
       "show": "TLOK",
       "book": "4",
-      "episode": "1",
-      "name": "After All These Years",
-      "versionString": "tlok4.1"
+      "episode": "1"
     },
     {
       "id": 101,
+      "name": "Korra Alone",
       "show": "TLOK",
       "book": "4",
-      "episode": "2",
-      "name": "Korra Alone",
-      "versionString": "tlok4.2"
+      "episode": "2"
     },
     {
       "id": 102,
+      "name": "The Coronation",
       "show": "TLOK",
       "book": "4",
-      "episode": "3",
-      "name": "The Coronation",
-      "versionString": "tlok4.3"
+      "episode": "3"
     },
     {
       "id": 103,
+      "name": "The Calling",
       "show": "TLOK",
       "book": "4",
-      "episode": "4",
-      "name": "The Calling",
-      "versionString": "tlok4.4"
+      "episode": "4"
     },
     {
       "id": 104,
+      "name": "Enemy at the Gates",
       "show": "TLOK",
       "book": "4",
-      "episode": "5",
-      "name": "Enemy at the Gates",
-      "versionString": "tlok4.5"
+      "episode": "5"
     },
     {
       "id": 105,
+      "name": "The Battle of Zaofu",
       "show": "TLOK",
       "book": "4",
-      "episode": "6",
-      "name": "The Battle of Zaofu",
-      "versionString": "tlok4.6"
+      "episode": "6"
     },
     {
       "id": 106,
+      "name": "Reunion",
       "show": "TLOK",
       "book": "4",
-      "episode": "7",
-      "name": "Reunion",
-      "versionString": "tlok4.7"
+      "episode": "7"
     },
     {
       "id": 107,
+      "name": "Remembrances",
       "show": "TLOK",
       "book": "4",
-      "episode": "8",
-      "name": "Remembrances",
-      "versionString": "tlok4.8"
+      "episode": "8"
     },
     {
       "id": 108,
+      "name": "Beyond the Wilds",
       "show": "TLOK",
       "book": "4",
-      "episode": "9",
-      "name": "Beyond the Wilds",
-      "versionString": "tlok4.9"
+      "episode": "9"
     },
     {
       "id": 109,
+      "name": "Operation Beifong",
       "show": "TLOK",
       "book": "4",
-      "episode": "10",
-      "name": "Operation Beifong",
-      "versionString": "tlok4.10"
+      "episode": "10"
     },
     {
       "id": 110,
+      "name": "Kuvira's Gambit",
       "show": "TLOK",
       "book": "4",
-      "episode": "11",
-      "name": "Kuvira's Gambit",
-      "versionString": "tlok4.11"
+      "episode": "11"
     },
     {
       "id": 111,
+      "name": "Day of the Colossus",
       "show": "TLOK",
       "book": "4",
-      "episode": "12",
-      "name": "Day of the Colossus",
-      "versionString": "tlok4.12"
+      "episode": "12"
     },
     {
       "id": 112,
+      "name": "The Last Stand",
       "show": "TLOK",
       "book": "4",
-      "episode": "13",
-      "name": "The Last Stand",
-      "versionString": "tlok4.13"
+      "episode": "13"
     }
   ],
-  "count": 380,
   "tags": [
-    "iroh_jr",
-    "wisdom",
-    "to:aang",
-    "to:toph",
-    "to:katara",
-    "to:sokka",
-    "to:zuko"
+    {
+      "id": 0,
+      "name": "iroh_js"
+    },
+    {
+      "id": 1,
+      "name": "location:earth_nation"
+    },
+    {
+      "id": 2,
+      "name": "location:fire_nation"
+    },
+    {
+      "id": 3,
+      "name": "location:near_southern water tribe"
+    },
+    {
+      "id": 4,
+      "name": "location:port"
+    },
+    {
+      "id": 5,
+      "name": "location:south_pole"
+    },
+    {
+      "id": 6,
+      "name": "location:unknown"
+    },
+    {
+      "id": 7,
+      "name": "location:zhao's_harbor"
+    },
+    {
+      "id": 8,
+      "name": "location:zuko's_ship"
+    },
+    {
+      "id": 9,
+      "name": "to:aang"
+    },
+    {
+      "id": 10,
+      "name": "to:earth_soldier"
+    },
+    {
+      "id": 11,
+      "name": "to:fire_soldier"
+    },
+    {
+      "id": 12,
+      "name": "to:katara"
+    },
+    {
+      "id": 13,
+      "name": "to:sokka"
+    },
+    {
+      "id": 14,
+      "name": "to:unknown"
+    },
+    {
+      "id": 15,
+      "name": "to:unnamed"
+    },
+    {
+      "id": 16,
+      "name": "to:zhao"
+    },
+    {
+      "id": 17,
+      "name": "to:zuko"
+    },
+    {
+      "id": 18,
+      "name": "to:zuko's_crew"
+    },
+    {
+      "id": 19,
+      "name": "wisdom"
+    }
   ],
   "quotes": [
     {
@@ -921,399 +880,634 @@
       "show": "ALTA",
       "episode": 0,
       "quote": "I won't get to finish my game?",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
     },
     {
       "id": 1,
       "show": "ALTA",
       "episode": 0,
       "quote": "Or it's just the celestial lights. We've been down this road before, Prince Zuko. I don't want you to get too excited over nothing. Please, sit. Why don't you enjoy a cup of calming Jasmine tea?",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
     },
     {
       "id": 2,
       "show": "ALTA",
       "episode": 0,
       "quote": "I'm going to bed now. Yep, a man needs his rest. Prince Zuko, you need some sleep. Even if you're right, and the Avatar is alive, you won't find him. Your father, grandfather and great-grandfather all tried and failed.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
     },
     {
       "id": 3,
       "show": "ALTA",
       "episode": 0,
       "quote": "Again.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
     },
     {
       "id": 4,
       "show": "ALTA",
       "episode": 0,
       "quote": "No! Power in firebending comes from the breath, not the muscles. The breath becomes energy in the body. The energy extends past your limbs and becomes: fire! Get it right this time.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
     },
     {
       "id": 5,
       "show": "ALTA",
       "episode": 0,
       "quote": "No, you are impatient. You have yet to master your basics. Drill it again!",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
     },
     {
       "id": 6,
       "show": "ALTA",
       "episode": 0,
       "quote": "Very well, but first, I must finish my roast duck.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
     },
     {
       "id": 7,
       "show": "ALTA",
       "episode": 1,
       "quote": "Hey, you mind taking this to his quarters for me?",
-      "tags": []
+      "tags": [
+        "to:zuko's_crew",
+        "to:fire_soldier",
+        "to:unnamed",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
     },
     {
       "id": 8,
       "show": "ALTA",
       "episode": 1,
       "quote": "Duh? Huh?",
-      "tags": []
+      "tags": [
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
     },
     {
       "id": 9,
       "show": "ALTA",
       "episode": 1,
       "quote": "Good news for the Fire Lord. The Fire Nation's greatest threat is just a little kid.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:south_pole",
+        "location:near_southern_water_tribe"
+      ]
     },
     {
       "id": 10,
       "show": "ALTA",
       "episode": 2,
       "quote": "You mean the Avatar?",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 11,
       "show": "ALTA",
       "episode": 2,
       "quote": "Retired general.",
-      "tags": []
+      "tags": [
+        "to:zhao",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 12,
       "show": "ALTA",
       "episode": 2,
       "quote": "Our ship is being repaired.",
-      "tags": []
+      "tags": [
+        "to:zhao",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 13,
       "show": "ALTA",
       "episode": 2,
       "quote": "Yes. I will do that. It was incredible! What? Did we crash or something?",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "to:zhao",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 14,
       "show": "ALTA",
       "episode": 2,
       "quote": "Prince Zuko, show Commander Zhao your respect. We would be honored to join you. Do you have any ginseng tea? It's my favorite.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 15,
       "show": "ALTA",
       "episode": 2,
       "quote": "Eh.. My fault, entirely.",
-      "tags": []
+      "tags": [
+        "to:zhao",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 16,
       "show": "ALTA",
       "episode": 2,
       "quote": "More tea, please.",
-      "tags": []
+      "tags": [
+        "to:zhao",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 17,
       "show": "ALTA",
       "episode": 2,
       "quote": "Prince Zuko, that's enough.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 18,
       "show": "ALTA",
       "episode": 2,
       "quote": "Prince Zuko, have you forgotten what happened last time you dueled a master?",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 19,
       "show": "ALTA",
       "episode": 2,
       "quote": "Remember your firebending basics, Prince Zuko. They are your greatest weapons.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 20,
       "show": "ALTA",
       "episode": 2,
       "quote": "Basics, Zuko! Break his root!",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 21,
       "show": "ALTA",
       "episode": 2,
       "quote": "No, Prince Zuko. Do not taint your victory. So this is how the great Commander Zhao acts in defeat? Disgraceful. Even in exile, my nephew is more honorable than you. Thanks again for the tea. It was delicious.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 22,
       "show": "ALTA",
       "episode": 2,
       "quote": "Of course. I told you ginseng tea is my favorite.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zhao's_harbor"
+      ]
     },
     {
       "id": 23,
       "show": "ALTA",
       "episode": 3,
       "quote": "Well, there is news, Prince Zuko, but you might not like it. Don't get too upset.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 24,
       "show": "ALTA",
       "episode": 3,
       "quote": "Okay then. We have no idea where he is.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 25,
       "show": "ALTA",
       "episode": 3,
       "quote": "You really should open a window in here.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 26,
       "show": "ALTA",
       "episode": 3,
       "quote": "Well, there have been multiple sightings of the Avatar, but he is impossible to track down.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 27,
       "show": "ALTA",
       "episode": 3,
       "quote": "Are you going to finish that?",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 28,
       "show": "ALTA",
       "episode": 6,
       "quote": "Over here!",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 29,
       "show": "ALTA",
       "episode": 6,
       "quote": "You look tired, Prince Zuko. Why don't you join me in these hot springs and soak away your troubles?",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 30,
       "show": "ALTA",
       "episode": 6,
       "quote": "You should take your teacher's advice and relax a little. The temperature's just right. I heated it myself.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 31,
       "show": "ALTA",
       "episode": 6,
       "quote": "Very well!",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 32,
       "show": "ALTA",
       "episode": 6,
       "quote": "Who's there? A meadow vole! I should have known. You startled me, little one. It seems I dozed off and missed my nephew's deadline, but it was a very sweet nap.",
-      "tags": []
+      "tags": [
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 33,
       "show": "ALTA",
       "episode": 6,
       "quote": "Where are you taking me?",
-      "tags": []
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 34,
       "show": "ALTA",
       "episode": 6,
       "quote": "Right, but where, specifically?",
-      "tags": []
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 35,
       "show": "ALTA",
       "episode": 6,
       "quote": "Ah, the great city of Ba Sing Se.",
-      "tags": []
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 36,
       "show": "ALTA",
       "episode": 6,
       "quote": "I acknowledge my defeat at Ba Sing Se. After 600 days away from home, my men were tired, and I was tired. And I'm still tired.",
-      "tags": []
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 37,
       "show": "ALTA",
       "episode": 6,
       "quote": "Nothing. Actually, there is a bit of a problem. My old joints are sore and aching, and these shackles are too loose.",
-      "tags": []
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 38,
       "show": "ALTA",
       "episode": 6,
       "quote": "That's right. The cuffs move and jangle around and bump my wrists. It would help me if you tighten them so they wouldn't shake around so much.",
-      "tags": []
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 39,
       "show": "ALTA",
       "episode": 6,
       "quote": "Excellent form, Prince Zuko.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 40,
       "show": "ALTA",
       "episode": 6,
       "quote": "Yeah, that's true, but you are clearly outmatched.",
-      "tags": []
+      "tags": [
+        "to:earth_soldier",
+        "to:unnamed",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 41,
       "show": "ALTA",
       "episode": 7,
       "quote": "Sailing into Fire Nation waters... Of all the foolish things you've done in your sixteen years, Prince Zuko, this is the most foolish!",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 42,
       "show": "ALTA",
       "episode": 7,
       "quote": "Have you completely forgotten that the Fire Lord banished you? What if you're caught?",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 43,
       "show": "ALTA",
       "episode": 7,
       "quote": "You give him too much credit. My brother is not the understanding type!",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 44,
       "show": "ALTA",
       "episode": 7,
       "quote": "Uh, really Prince Zuko, couldn't you shoot them down with something more fragrant?",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 45,
       "show": "ALTA",
       "episode": 7,
       "quote": "Technically you are still in Earth Kingdom waters. Turn back now and they cannot arrest you.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 46,
       "show": "ALTA",
       "episode": 7,
       "quote": "Please Prince Zuko! If the Fire Nation captures you, there is nothing I can do! Do not follow the Avatar.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 47,
       "show": "ALTA",
       "episode": 7,
       "quote": "We're on a collision course!",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:earth_nation",
+        "location:zuko's_ship"
+      ]
     },
     {
       "id": 48,
       "show": "ALTA",
       "episode": 7,
       "quote": "Because he wants to follow you. He knows you'll lead him to the prize you're both after: the Avatar.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:fire_nation"
+      ]
     },
     {
       "id": 49,
       "show": "ALTA",
       "episode": 8,
       "quote": "Actually, someone did. I assure you, it is a matter of utmost importance, Prince Zuko.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 50,
       "show": "ALTA",
       "episode": 8,
       "quote": "Even more urgent. It seems, I- -I have lost my lotus tile.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 51,
       "show": "ALTA",
       "episode": 8,
       "quote": "For my Pai Sho game. Most people think the lotus tile insignificant, but it is essential for the unusual strategy that I employ.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 52,
       "show": "ALTA",
       "episode": 8,
       "quote": "See, you, like most people, underestimate it's value. Just give me ten minutes to check the merchants at this port of call. Hopefully, they will have the lotus tile in stock and I can get on with my life. I'm lucky to have such an understanding nephew.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:zuko's_ship",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 53,
       "show": "ALTA",
       "episode": 8,
       "quote": "I've checked all the shops on this pier. Not a lotus tile in the entire marketplace.",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:port",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 54,
       "show": "ALTA",
       "episode": 8,
       "quote": "Quite the contrary. I always say, the only thing better than finding something you are looking for is finding something you weren't looking for at a great bargain!",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:port",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 55,
       "show": "ALTA",
       "episode": 8,
       "quote": "For music night on the ship. Now, if we only had some woodwinds. Oh, this place looks promising! Oh, that is handsome! Wouldn't it look magnificent in the galley?",
-      "tags": []
+      "tags": [
+        "to:zuko",
+        "location:unknown",
+        "location:port",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 56,
       "show": "ALTA",
       "episode": 8,
       "quote": "Yeah, it kind of is.",
-      "tags": []
+      "tags": [
+        "to:aang",
+        "to:katara",
+        "to:sokka",
+        "to:zuko",
+        "location:unknown",
+        "location:earth_nation"
+      ]
     },
     {
       "id": 57,
