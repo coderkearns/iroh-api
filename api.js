@@ -1,7 +1,8 @@
 const express = require('express');
 const api = express.Router();
 
-const db = require('./db');
+const dbWithJr = require('./db');
+const db = { episodes: dbWithJr.episodes, tags: dbWithJr.tags, quotes: dbWithJr.quotes.filter(item => !item.tags.includes("iroh_jr")) };
 
 /* /////// ROUTES /////// */
 // GET /api/ - return endpoints as { episodes: <episodes.count>, quotes: <quotes.count>, tags: <tags.count> }
@@ -14,7 +15,8 @@ const db = require('./db');
 // GET /api/episodes/?limit=20  - return all episodes as array of simplified objects { id: <id>, name: <name> }
 // GET /api/episodes/:id        - return episode specified id or error if not found
 // GET /api/quotes/?limit=20    - return all quotes as array of simplified objects { id: <id>, quote: <quote> }
-// GET /api/quotes/tags/:tags   - return all quotes with specified tag or tags as array
+// GET /api/quotes/tags/:tags   - return all quotes with specified tag or tags
+// GET /api/quotes/text/:text   - return all quotes that includes the specified text
 // GET /api/quotes/:id          - return quote specified id or error if not found
 // GET /api/random/quote        - return a random quote
 // GET /api/random/quote/:tags   - return a random quote with specified tag or tags
@@ -111,6 +113,12 @@ api.get("/quotes/tags/:tags", (req, res) => {
     const quotes = db.quotes.findWhere(quote => tags.every(tag => quote.tags.includes(tag)));
     res.json(quotes);
 });
+
+// GET /api/quotes/text/:text
+api.get("/quotes/text/:text", (req, res) => {
+    const quotes = db.quotes.findWhere(quote => quote.quote.includes(req.params.text));
+    res.json(quotes);
+})
 
 // GET /api/quotes/:id
 api.get("/quotes/:id", (req, res) => {

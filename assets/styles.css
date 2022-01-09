@@ -1,0 +1,141 @@
+:root {
+    /* Some colors */
+    --green: #3d7c27;
+    --dark-green: #1d4a2f;
+    --yellow-green: #96ab3e;
+    --very-light-green: #cde485;
+    --very-dark-green: #1c2a08;
+    --cup-grey: #cfce9a;
+    --text-brown: #271a0a;
+    --text-background: #fcffdc;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #3d7c27;
+    color: #271a0a;
+}
+
+main {
+    margin: 0 auto;
+    padding: 0;
+    /* the height should be the height of its children, or the height of the window, whichever is larger */
+    height: fit-content;
+    min-height: 100%;
+    background-color: #cde485;
+    /* center all children horizontally, but not vertically */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* on mobile, the main content takes up the entire screen */
+@media screen and (max-width: 600px) {
+    main {
+        height: 100%;
+        border: none;
+    }
+}
+/* on desktop, the main content has a width of 80% */
+@media screen and (min-width: 600px) {
+    main {
+        width: 80%;
+        border-left: 2vw solid #96ab3e;
+        border-right: 2vw solid #96ab3e;
+    }
+}
+
+.center {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.center > * {
+    margin: 0.25rem;
+}
+
+#title {
+    font-size: 2.5rem;
+    font-family: serif;
+    color: #271a0a;
+    text-align: center;
+    margin: 2rem 1rem 0 0;
+    padding: 0;
+}
+
+/* style the <select> element */
+select {
+    font-size: 1rem;
+    width: fit-content;
+    font-family: serif;
+    color: #271a0a;
+    background-color: #fcffdc;
+    padding: 0.15rem;
+    padding-top: 0.25rem;
+    border-radius: 0.25rem;
+    border: 1px solid #271a0a;
+}
+
+/* style the <input> element */
+input {
+    font-size: 1rem;
+    width: fit-content;
+    font-family: serif;
+    color: #271a0a;
+    background-color: #fcffdc;
+    padding: 0.15rem;
+    padding-top: 0.25rem;
+    padding-left: 0.5rem;
+    border-radius: 0.25rem;
+    border: 1px solid #271a0a;
+}
+
+/* style the <button> element */
+button {
+    font-size: 1rem;
+    width: fit-content;
+    font-family: serif;
+    color: #271a0a;
+    background-color: #fcffdc;
+    padding: 0.25rem;
+    border-radius: 0.25rem;
+    border: 1px solid #271a0a;
+}
+
+button:hover {
+    background-color: #96ab3e;
+    color: #fcffdc;
+    transition: 0.2s;
+}
+
+ul {
+    list-style-type: none;
+    margin: 1rem;
+    padding: 0.25rem;
+}
+
+/* each <li> should look like a card */
+li {
+    background-color: #fcffdc;
+    border: 2px solid #96ab3e;
+    border-radius: 0.25rem;
+    padding: 0.25rem;
+    margin: 0.5rem;
+    box-shadow: 1.5px 3px 3px hsl(0deg 0% 0% / 0.45);
+}
+
+.id {
+    /* bold the id */
+    font-weight: bold;
+    font-family: serif;
+}
+
+.quote {
+    /* italicize the quote */
+    font-style: italic;
+}

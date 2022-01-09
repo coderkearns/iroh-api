@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="/assets/styles.css" />
+        <link rel="icon" type="image/ico" href="/assets/favicon.ico" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+    </head>
+    <body>
+        <main>
+            <h1 id="title">The Jasmine Dragon</h1>
+            <p>Serving the best quotes (and tea) in all the four nations.</p>
+            <div class="app">
+                <div class="center">
+                    <select id="type" name="type">
+                        <option value="quote">Search by...</option>
+                        <option value="quote">Quote Text</option>
+                        <option value="tag">Tags</option>
+                    </select>
+                    <input
+                        id="search"
+                        type="text"
+                        name="search"
+                        placeholder="Search..."
+                    />
+                    <button id="random" type="button">Random quote!</button>
+                </div>
+                <ul id="quotes">
+                    Loading...
+                </ul>
+            </div>
+        </main>
+        <script src="/assets/index.js"></script>
+    </body>
+</html>
