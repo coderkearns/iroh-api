@@ -1,25 +1,26 @@
 {
-  "name": "iroh-api",
-  "version": "2.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/coderkearns/iroh-api.git"
-  },
-  "author": "Carter Kearns <coder.kearns@gmail.com> (https://github.com/coderkearns)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/coderkearns/iroh-api/issues"
-  },
-  "homepage": "https://github.com/coderkearns/iroh-api#readme",
-  "dependencies": {
-    "body-parser": "^1.19.1",
-    "cors": "^2.8.5",
-    "express": "^4.17.2",
-    "helmet": "^5.0.1"
-  }
+    "name": "iroh-api",
+    "version": "2.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/coderkearns/iroh-api.git"
+    },
+    "author": "Carter Kearns <coder.kearns@gmail.com> (https://github.com/coderkearns)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/coderkearns/iroh-api/issues"
+    },
+    "homepage": "https://github.com/coderkearns/iroh-api#readme",
+    "dependencies": {
+        "body-parser": "^1.19.1",
+        "cors": "^2.8.5",
+        "express": "^4.17.2",
+        "helmet": "^5.0.1"
+    }
 }

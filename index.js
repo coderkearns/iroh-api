@@ -7,7 +7,7 @@ const server = app.listen(PORT, HOST, () => {
     console.log(`Server listening at http://${HOST}:${PORT}/`);
 });
 
-process.on("exit", () => {
+process.on("SIGINT", () => {
     console.log("Closing server...");
     server.close();
 });
