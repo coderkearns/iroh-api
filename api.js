@@ -75,7 +75,7 @@ api.get("/episodes/", (req, res) => {
 api.get("/quotes/", (req, res) => {
     // Only find the first 20 items, unless the query string has limit=<number>
     const limit = isNaN(Number(req.query.limit)) ? 20 : Number(req.query.limit);
-    res.json(db.quotes.mapArray(quote => ({ id: quote.id, quote: quote.quote })).slice(0, limit));
+    res.json(db.quotes.all().slice(0, limit));
 });
 
 // GET /api/tags/:id

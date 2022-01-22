@@ -129,13 +129,6 @@ li {
     box-shadow: 1.5px 3px 3px hsl(0deg 0% 0% / 0.45);
 }
 
-.id {
-    /* bold the id */
-    font-weight: bold;
-    font-family: serif;
-}
-
-.quote {
-    /* italicize the quote */
-    font-style: italic;
-}
+span.id { font-weight: bold; font-family: serif; }
+span.quote { font-style: italic; }
+span.episode { font-size: 0.75rem; }

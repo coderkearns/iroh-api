@@ -3,17 +3,19 @@ const searchBySelect = document.getElementById("type");
 const searchInput = document.getElementById("search");
 const randomButton = document.getElementById("random");
 
-function createLi(quote) {
+async function createLi(quote) {
+    const res = await fetch("/api/episodes/" + quote.episode)
+    const episode = await res.json()
     let li = document.createElement('li');
-    li.innerHTML = `<span class="id">${quote.id}.</span> <span class="quote">${quote.quote}</span>`;
+    li.innerHTML = `<span class="id">${quote.id}.</span> <span class="quote">${quote.quote}</span><br><span class="episode"> - ${episode.name}, ${episode.show}</span>`;
     return li;
 }
 
-function setQuotes(quotes) {
+async function setQuotes(quotes) {
     quoteList.innerHTML = "";
-    quotes.forEach(quote => {
-        quoteList.appendChild(createLi(quote));
-    });
+    const promises = quotes.map(createLi);
+    const lis = await Promise.all(promises);
+    lis.forEach(li => quoteList.appendChild(li));
 }
 
 function fetchQuotes(amount = 20) {
