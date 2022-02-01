@@ -14,7 +14,10 @@ async function createLi(quote) {
 async function setQuotes(quotes) {
     quoteList.innerHTML = "";
     const promises = quotes.map(createLi);
-    const lis = await Promise.all(promises);
+    const lis = []
+    for (let promise of promises) {
+        lis.push(await promise);
+    }
     lis.forEach(li => quoteList.appendChild(li));
 }
 
